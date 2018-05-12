@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5468
     wikipedia: http://en.wikipedia.org/wiki/Stopford_Augustus_Brooke
 description: Robert Browning, 1812-1889, English poet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14316#The-Poetry-Of-Robert-Browning
 gutenberg_issued: '2004-12-10'
 gutenberg_type: Text
 identifiers:
