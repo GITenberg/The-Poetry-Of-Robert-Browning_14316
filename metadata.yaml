@@ -1,0 +1,27 @@
+_repo: The-Poetry-Of-Robert-Browning_14316
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooke, Stopford Augustus
+    birthdate: 1832
+    deathdate: 1916
+    gutenberg_agent_id: '5468'
+    url: http://www.gutenberg.org/2009/agents/5468
+    wikipedia: http://en.wikipedia.org/wiki/Stopford_Augustus_Brooke
+description: Robert Browning, 1812-1889, English poet.
+gutenberg_issued: '2004-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Browning, Robert, 1812-1889 -- Criticism and interpretation'
+title: The Poetry Of Robert Browning
+url: http://www.gutenberg.org/ebooks/14316
